@@ -1,0 +1,18 @@
+cities = {
+    beijing: ["北京",  12],
+    shanghai: ["上海", 13],
+    guangzhou: ["广州",  13],
+    shenzhen: ["深圳",  13],
+    chengdu: ["成都",  12],
+    hongkong: ["香港",  13],
+    wuhan: ["武汉",  13],
+    hangzhou: ["杭州", 13],
+    chongqing: ["重庆", 13],
+    zhengzhou: ["郑州", 13],
+    nanjing: ["南京", 13],
+    xian: ["西安", 12],
+    suzhou: ["苏州", 12],
+    tianjin: ["天津", 13],
+    changsha: ["长沙", 13],
+    fuzhou: ["福州", 13],
+};
